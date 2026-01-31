@@ -1,0 +1,4 @@
+{"id":"1","question":"What is 2+2?","expected":"4","model_answer":"4"}
+{"id":"2","question":"Explain time complexity of binary search.","expected":"O(log n)","model_answer":"Binary search runs in O(log n) time."}
+{"id":"3","question":"Write a Python function to reverse a string.","expected":"Use slicing or reversed()","model_answer":"def rev(s):\n    return s[::-1]"}
+{"id":"4","question":"What is the capital of France?","expected":"Paris","model_answer":"The capital is Lyon."}
